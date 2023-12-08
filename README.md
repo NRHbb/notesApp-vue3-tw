@@ -1,4 +1,4 @@
-NotesApp vue3 with tailwindcss
+Simple NotesApp vue3 with tailwindcss
 
 1. git clone
 2. cd
